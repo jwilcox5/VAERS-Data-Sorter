@@ -1,1 +1,1 @@
-# VAERS-Data-Sorter
+- This Java project takes data from the VAERS Vaccine Data Set, selects all of the COVID-19 Vaccines from the data set, and stores all of the COVID-19 data in a new .CSV file. There are also option to sort the COVID-19 data using Insertion Sort, Selection Sort, or Quick Sort methods. 
